@@ -42,6 +42,10 @@ The following preprocessing and cleaning steps were performed before creating th
 * Data Visulaiztion
 * Dashboard Design
 * Business Reporting
+#### 📁Project files
+* samplesuperstore 1.xlsx
+* Dashboard Screenshot
+* README Documentation
 * Pivot Table Analysis
 * Interactive Reporting in Excel
 ## Dashboard Preview
