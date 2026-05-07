@@ -45,6 +45,6 @@ The following preprocessing and cleaning steps were performed before creating th
 * Pivot Table Analysis
 * Interactive Reporting in Excel
 ## Dashboard Preview
-![Dashboard](images/dashboard.png "SuperStore Dashboard View")
+![Dashboard](dashboard.PNG "SuperStore Dashboard View")
 
 
